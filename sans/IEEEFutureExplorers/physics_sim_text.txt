@@ -1,0 +1,784 @@
+PHYSICS EQUATION SIMULATOR
+STUDENTS NAME:HARISH SANJAY S,SUMITMADHAVAN S,THUTHIKATHIPATHI M,JAI GANESH JC
+COLLEGE NAME:SRI SAIRAM INSTITUTE OF TECHNOLOGY
+BATCH : 02
+REGISTER NO :2303412414921018,2303412414911051,2303412414921054,2303412414921020
+SUPERVISOR:Ms AISWARYA PRIYADHARSHINI S
+UNDER THE GUIDANCE OF:Ms AISWARYA PRIYADHARSHINI S
+
+TITLE
+PRIMARY
+SECONDARY 
+TERITARY
+GOAL
+04
+11
+17
+TARGET
+quality 
+education
+sustainable 
+communities
+partnership 
+for the goals
+JUSTIFICATION FOR SUSTAINABLE DEVELOPMENT GOAL
+
+Who we are
+Name of your Venture:PHYSICS EQUATION SIMULATOR
+Provide a brief on what does your venture do.
+Why ? 
+Explain why do you want to pursue this Business Idea. 
+What  ? 
+How  ? 
+Explain how your venture solves the problem and make its revenue. 
+Our motive to pursue this business idea is that we are 
+passionate about educating students in a way where all the 
+syllabus thought to us can be applied in real world
+Our venture will ensure that all the complex physics equation 
+can be simulated in real time so that the students can grasp 
+ideas well and deep knowledge of the related topic
+Our venture solves the problem by making the students ready 
+to apply all the equations and theories thought to them in real 
+world applications and our venture make its revenue by 
+subscription model or product purchase model
+
+4
+CONTEXT
+When does the problem occur?
+The problem occurs when the student fear the subject 
+and studies syllabus just so they can perform well in 
+their academics rather not focusing on the main 
+objective of the syllabus which is to apply the tought 
+subject in real world applications and solve real world 
+problems
+PROBLEM
+What is the root cause of the problem?
+Root cause of the problem is that the way that the 
+subject is thought and the intimidation of an subject
+ALTERNATIVES
+What do customers do now to ﬁx the problem?
+Forced to visualize or rendered videos?
+CUSTOMERS
+Who has the problem most often?
+students
+EMOTIONAL IMPACT
+How does  the customer  feel?
+Better understanding
+ALTERNATIVE SHORTCOMINGS
+What are the disadvantages of the  alternatives?
+run time rendering is not applicable for learning as one 
+would need to apply the conccepts in real world 
+problems
+QUANTIFIABLE IMPACT
+What is the measurable impact  (include units)?
+Decrease in interest in complex concepts
+                           Problem/Opportunity
+
+Problem Interviews And Surveys Results  
+• How many customers did you interview? 
+• 4
+• What was the interview mode?
+• one competition and  another pitch
+• How many of them agree this is a problem and wants a solution?
+• 3 agreed this is a problem
+• How many of them said they don't need a new solution?
+• 0 members
+
+Market Size Estimation 
+.
+……
+Sources: 
+TAM
+SAM
+SOM
+How to calculate market size?
+1. Start with Total Addressable market- Global physics students in schools and universities: 
+~500 million
+TAM refers to the total market demand for a product or service.
+ If you’re entering a pre-existing space (like small business banking) you can research it and 
+provide credible sources or reference points on how you arrived at the TAM.  If you’re 
+creating a new product or space (like Slack), you can estimate the number of customers that 
+would want your product and approximate how much you could charge them.
+2. Take your target market (SAM), within that TAM, which varies depending on geography 
+and other logistical factors. Determine the penetration potential of your target market is 
+950,000 users
+3.By conducting research with existing competitors, distributors etc., understand the likely 
+penetration rate in Tamil Nadu could range from 3% to 5%
+4. Multiply target market by penetration rate to find your market size if subscription is 
+1000Rupees/year the low estimate ₹400 million to and high estimate ₹950 million
+ 
+
+Customer Persona
+Goals
+To become an aeronatical engineer 
+Frustrations
+Understands the concepts but does’nt know how to apply 
+them in real world application
+ 
+Bio
+Enthusiastic about upcoming technologies and eager to learn 
+about all the new technologies and their workings,
+basic application of physics in school projects are his best 
+works
+Personality 
+Motivations 
+Age: 14-22
+Occupation: Student
+Location:Coimbatore
+OUTGOING
+Yogesh
+GREAT OBSERVER
+Approachable
+
+Value Proposition Canvas 
+JOBS
+PAINS
+GAINS
+GAIN CREATORS 
+PAIN KILLERS
+PRODUCT/ 
+SERVICE
+ 
+What do you offer that makes the customers happy?
+Genuine interaction between customer that gives 
+them what they need
+Which features of your offering relieve the 
+customer's pains?
+real time rendering helps the student to 
+understand the concept and be relieved of fear
+relieves the customer of fear of intimidating 
+concepts 
+I would LOVE it if: 
+? What would make the customer happy? 
+Their ability to apply the concepts in variuos projects 
+or personal endeavours 
+? What do the clients want when facing the problem?
+When facing the problem the client would need the 
+assistance of a experienced professional or other 
+source of information
+This refers to the feeling/action of customers before he 
+gets in contact with your solution.
+I would HATE it if: 
+What are the pains of the clients when facing the problem?
+This refers to the feeling/action of customers before he gets 
+in contact with your solution.
+I would WANT: 
+What do the clients do (actions) when facing 
+the problem?
+This refers to the feeling/action of customers 
+before he gets in contact with your solution.
+What is the product or service that you are offering?
+Better and easy way to visualize and represent a 
+complex concept which is crucial to real world 
+problems
+FIT
+.
+
+Solution
+Describe your Solution:
+We offer Physics equation simulator
+The details of our offering consist of:
+1.
+Visualize of complex concepts
+2.
+Simulations of the complex concepts…
+3.
+ Way to help students apply the syllabus in real 
+world problems
+List the Benefits of Your solutions
+1.Better innovating environment
+2.Resource efficient
+3.Personalization 
+
+Competition Analysis
+Benefits 
+PhET Interactive 
+Simulations
+Algodoo
+SimScale
+Khan Academy
+Your Venture 
+Product
+Interactive science 
+simulations
+Physics & mechanics 
+simulator
+Engineering physics 
+simulations
+Educational video 
+tutorials
+Real-time physics 
+equation simulator 
+with custom engine
+Price 
+Free
+Paid (one-time 
+purchase)
+Free with paid options
+Free
+Subscription model
+Branding channels 
+Educational 
+institutions, website
+Education platforms, 
+social media
+Engineering 
+communities
+Educational 
+institutions, website
+Education forums, 
+social media
+Packaging
+Web-based, easy 
+access
+Software application
+Cloud-based
+Web and app access
+Cross-platform app (PC, 
+mobile, web) with 
+Vulkan support
+Market reviews 
+Positive in educational 
+sector
+Popular for mechanics 
+learning
+Favored for advanced 
+users
+Widely used, trusted
+Innovative for students 
+seeking hands-on 
+physics learning
+UVP
+Wide range of science 
+subjects
+Visual mechanics 
+exploration
+Engineering precision
+Free, high-quality 
+content
+Real-time, high-
+performance physics 
+engine with Vulkan
+Add more as required 
+Customization options
+Hands-on learning for 
+mechanics
+Advanced engineering 
+tools
+Interactive learning 
+paths
+Game engine-like 
+experience, cross-
+platform compatibility
+
+Lean Canvas
+Business Model
+EXISTING ALTERNATIVES
+KEY METRICS
+•  
+SOLUTION
+A cross-platform physics 
+equation simulator that 
+uses the Vulkan engine to 
+provide high-quality, real-
+time simulations of complex 
+physics equations.
+UNIQUE VALUE 
+PROPOSITION
+UNFAIR ADVANTAGE
+Hard-to-replicate 
+knowledge in cross-
+platform simulation 
+programming, allowing 
+access on multiple 
+devices.
+•  
+•  
+CUSTOMER SEGMENTS
+Students aged 14-22, 
+particularly those in high 
+school and early college 
+focused on physics.
+Educational institutions and 
+educators seeking interactive, 
+engaging tools to enhance 
+learning.
+EARLY ADOPTERS 
+COST STRUCTURE
+• Development costs (software licenses, team salaries, platform 
+fees).
+• Marketing and promotional expenses.
+• Ongoing maintenance and customer support.
+•
+Traditional textbooks and 
+online courses that teach 
+theoretical physics concepts.
+Educational apps and 
+simulation tools, which may 
+not offer customization or 
+real-time applications for 
+complex physics equations.
+Subscription model (e.g., annual subscription fee for individual 
+users).
+One-time purchase option for full access.
+Institutional licensing for schools or universities, allowing 
+multiple students to benefit.
+Students struggle to 
+understand and apply 
+complex physics equations in 
+real-world contexts.
+Existing tools are often 
+theoretical and lack interactive, 
+practical application.
+There is frustration among 
+students who understand 
+concepts but cannot apply 
+them effectively.
+Problem
+Subscription and 
+purchase numbers.
+User engagement (e.g., 
+time spent using 
+simulations).
+Student improvement in 
+comprehension and 
+practical skills.
+Tailored for students aged 
+14-22, helping them bridge 
+the gap between theoretical 
+knowledge and real-world 
+application.
+"Empowering students 
+to bring physics 
+equations to life, 
+making theoretical 
+concepts practically 
+applicable through real-
+time, interactive 
+simulations."
+Direct sales to 
+students and 
+educational 
+institutions through 
+online educational 
+platforms.
+Social media and 
+digital marketing 
+targeting students, 
+educators, and 
+parents.
+Schools or educators interested in 
+adopting advanced, interactive 
+teaching resources.
+Customer Acquisition
+Channels: Social media, partnerships with 
+schools, and influencer marketing.
+Target: Students (ages 14-22) and education
+institutions.
+Revenue Streams
+Subscription Model: Monthly/annual for 
+students.
+One-Time Purchase: Lifetime access option.
+Institutional Licensing: Bulk access for 
+schools/universities.
+Retention
+Personalization: Tailored simulations and 
+regular content updates.
+Cross-Platform Access: Usable on any device
+via Vulkan, ensuring flexibility.
+Community: Forum for users to share ideas 
+and support each other.
+Scalability
+Low incremental costs with global reach.
+Potential to expand into other STEM subjects
+Key Partnerships
+Collaborate with educators, tech providers, 
+and influencers to enhance reach and 
+credibility.
+Bringing physics 
+equations to life for 
+students to enhance 
+real-world 
+understanding and 
+innovation."
+HIGH-LEVEL CONCEPT
+REVENUE STREAMS
+CHANNELS
+
+MVP
+
+TARGET MARKET:
+students and teachers
+ 
+LEADS:
+university  
+OPPORTUNITIES/PROSP
+ECTS:
+Learnning opportunities
+CUSTOMER:
+students
+Customer Sales Funnel
+1
+2
+3
+4
+5
+Target Customer 
+Segment (Type)
+Target Customer 
+Segment  (Number)
+Channels to be used to 
+attract the target 
+customer segment
+Estimated number of 
+leads
+Estimated cost to 
+convert these leads to 
+actual customers
+ dept HOD
+         -
+ showing progress
+ >100
+ 22,000
+ An student
+ 73393 43106
+ product
+ 1
+        0
+ university
+          -
+ complete product
+ >2000
+ 57,000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Acquisition Plan
+SALES PLAN
+
+Go-to-Market Strategy
+•
+Social Media Presence: Establish accounts on Facebook, LinkedIn, 
+Instagram, and Twitter. Regularly post educational content, tutorials, and 
+user testimonials.
+•
+Branding Video: Create a 1-2 minute video that highlights the product, 
+showcasing its unique value of making physics learning more practical and 
+interactive. The video should include:
+•
+What the simulator is
+•
+The target audience (students and educators)
+•
+Key benefits: interactive, real-time simulations, and easy-to-use interface
+•
+Positioning Statement: “Physics Equation Simulator is designed for students 
+and educators to simplify and visualize complex physics concepts, helping 
+bridge the gap between theory and practical application.”
+
+Start-up Costs 
+FINANCIAL PLAN
+Starting Costs
+Startup Cost
+ Capital Work in Progress ( Fixed Asset )
+Starting Operations ( Budgeted )
+Start-up capital
+₹17,48,000
+₹4,52,000
+₹22,00,000
+Business Registration
+Licenses
+Equipment and Utesils
+Interirors and Furnitures
+Website development
+Laptop/ POS
+Promotion
+Hosting and Domain Space
+Misceleneous
+Share Captial 
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+25,000
+23,000
+6,00,000
+6,00,000
+5,00,000
+1,00,000
+2,00,000
+1,00,000
+12,00,000
+10,00,000
+
+Forecast P&L 
+    3,00,000     3,00,000       3,00,000         3,00,000        3,00,000        3,00,000 
+      3,00,000 
+        3,00,000         3,00,000         3,00,000         3,00,000         3,00,000 
+            100             100               100                 100                100                100 
+              100 
+                100                 
+₹                36,00,000 
+₹                          100 
+₹         12,00,000 ₹         12,00,000  ₹           12,00,000 ₹              12,00,000 ₹             12,00,000  ₹            12,00,000 ₹            12,00,000  ₹              12,00,000  ₹             12,00,000  ₹             12,00,000  ₹             12,00,000 ₹              12,00,000 ₹             1,44,00,000 
+₹           7,60,000 ₹           7,60,000  ₹             7,60,000 ₹                7,60,000 ₹               7,60,000  ₹              7,60,000 ₹              7,60,000  ₹                7,60,000  ₹               7,60,000  ₹               7,60,000  ₹               7,60,000 ₹                7,60,000 
+₹           7,60,000 ₹           7,60,000  
+₹                91,20,000 
+ ₹                              - 
+ ₹                              - 
+ ₹                              - 
+ ₹                              - 
+ ₹                              - 
+₹           4,40,000 ₹           4,40,000  ₹             4,40,000 ₹                4,40,000
+COGS
+Fixed Expenses
+Cost of Services 
+Cost Per Unit
+100                 100                 100                 100 
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹
+₹             7,60,000 ₹                7,60,000 ₹               7,60,000  ₹              7,60,000 ₹              7,60,000  ₹                7,60,000  ₹               7,60,000  ₹               7,60,000  ₹               7,60,000 ₹                7,60,000 ₹                91,20,000 
+₹                52,80,000 
+80%
+29%
+Gross profit
+Net Profit/Loss
+Gross Profit Margin
+Net Profit Margin
+Salaries
+Marketing and Promotion
+Digital Marketing
+Utilities (Electricity etc.)
+Customer Service
+Rent
+ ₹               4,40,000  ₹              4,40,000 ₹              4,40,000  ₹                4,40,000  ₹               4,40,000  ₹               4,40,000  ₹               4,40,000 ₹                4,40,000 
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+80%
+29%
+29%
+29%
+29%
+29%
+29%
+29%
+29%
+29%
+29%
+29%
+29%
+Total Expenses
+Result
+
+Financial Projections
+36000
+43206
+51847
+62221
+74625
+ ₹               400  ₹               400 ₹                 486 ₹                    486  ₹                536 
+ ₹               500  ₹               500 ₹                 600 ₹                    600  ₹                650 
+ ₹               100  ₹               100 ₹                 114 ₹                    114  ₹                114 
+ ₹   1,80,00,000  ₹   2,16,03,000  ₹     3,11,08,320  ₹        3,73,32,384  ₹    4,85,04,607 
+ ₹   1,44,00,000  ₹   1,72,82,400  ₹     2,51,82,704  ₹        3,02,21,187  ₹    3,99,75,742 
+ N.A. 
+ N.A. 
+ N.A. 
+ N.A. 
+ N.A. 
+ ₹      91,20,000  ₹   1,00,32,000  ₹     1,10,35,200  ₹        1,21,38,720  ₹    1,33,52,592 
+ ₹                   -  ₹                   -  ₹                     -  ₹                        -  ₹                    - 
+ ₹                   -  ₹                   -  ₹                     -  ₹                        -  ₹                    - 
+ ₹                   -  ₹                   -  ₹                     -  ₹                        -  ₹                    - 
+ ₹                   -  ₹                   -  ₹                     -  ₹                        -  ₹                    - 
+ ₹                   -  ₹                   -  ₹                     - 
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Capital costs
+Expenses (Annual)
+Earnings (EBITDA)
+Number of sales
+Value of each sale (Contribution)
+Average Price per unit
+Average Cost per unit
+Total revenue
+Gross Profit
+Land and building
+Equipment
+Product development costs
+Others
+Total
+Salaries
+Marketing and Promotion
+Digital Marketing & Customer Services
+Utilities (electricity etc.)
+Office Supplies
+Rent
+Total
+ ₹                        -  ₹                    - 
+ ₹      91,20,000  ₹   1,00,32,000  ₹     1,10,35,200  ₹        1,21,38,720  ₹    1,33,52,592 
+ ₹      52,80,000  ₹      72,50,400  ₹     1,41,47,504  ₹        1,80,82,467  ₹    2,66,23,150 
+
+ 
+P & L/ unit
+Unit 
+Economics
+Year 2024
+Step 1
+APV = Average Purchase Value 
+= Total revenue/Total number of 
+purchases
+ ₹                    500
+CAC
+ ₹             -
+Step 2
+Step 3
+Step 4
+80%
+ ₹        353
+ ₹    146.67
+CAC = (M + S) / Number of 
+Customers
+1000000 666.6666667
+1500
+Churn rate
+customers 
+at the 
+beginning -
+customers 
+at the end/ 
+customers 
+at the 
+beginning
+5
+Customers at the 
+Beginning of month
+1000
+Customers at the 
+End of month
+950
+Year 2024
+CLV
+ ₹         11,520 
+Revenue
+₹
+500
+APF = Average Purchase Frequency
+= Number of purchases/ Number of 
+unique customers
+COGS
+ ₹            100 
+Average Customer Lifespan = 
+1/Churnrate
+Gross Profit
+ ₹            400 
+ARPU
+CLV =APV*APF*ACL*GM
+₹
+11,520
+Gross Profit Margin
+Operating Costs
+Operating Profit
+Assumptions
+144.00
+0.20
+₹
+72,000
+UNIT ECONOMICS
+
+Funding Plan 
+How much funds required to reach to the next level 
+of the venture?
+•
+3,00,000
+How much have been bootstrapped? If not, why ?
+•
+1,000,not much since the state the start up is at 
+early research phase
+How much can be bootstrapped?
+•
+12,000
+How much external funding required? If not, why?
+•
+12,00,000
+Funds utilization strategy (Details)
+•
+Software & Licenses
+•
+Cloud Computing,GPU Resources
+•
+Bug Fixes & Optimization
+•
+Building an Intuitive UI 
+•
+Support for Different Devices
+•
+Documentation & Tutorials
+•
+Social Media & Outreach
+•
+Partnerships & Collaborations – Universities, 
+research institutions, or ed-tech companies.
+•
+Customer Support
+•
+One-Time License Fee
+•
+Ads & Sponsorships
+

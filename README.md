@@ -1,73 +1,90 @@
-# Pixtory
+# PixelFactory / Pixtory - IEEE Future Tech Explorers Challenge
 
-## Problem Statement
+> **Turning Invisible Forces Into Interactive Experience**  
+> *IEEE Future Tech Explorers Challenge | Sri Sairam Institute of Technology*
 
-Physics is often taught through equations and textbook diagrams, but many learners struggle to connect those abstractions to how motion and fields actually behave. This repository solves that gap by turning complex physics concepts into interactive, visual simulations that make pendulums, black holes, and chaotic systems easier to understand.
+---
 
-## Solution
+## 🌟 Overview
 
-`Pixtory` is a hands-on physics visualization project built with Python and Pygame. It uses real simulation techniques to render:
-- a double pendulum with accurate Runge-Kutta integration,
-- a stylized black hole accretion disk with gravitational lensing effects,
-- and additional physics-driven visuals that emphasize physical intuition.
+**PixelFactory** is an interactive, real-time 3D physics simulation platform designed for STEM students to bridge the gap between abstract mathematical equations and intuitive physical phenomena. Rather than memorizing static formulas, learners can manipulate parameters in real time, observe instant dynamic feedback, and explore both standard syllabus equations and custom user-defined formulas.
 
-The result is not just a static demo: it is an exploratory learning environment where the code, visuals, and audio all support deeper understanding.
+---
 
-## Tech Stack
+## 🚀 Key Features
 
-- Python 3
-- Pygame for real-time rendering and input handling
-- NumPy for numerical signal generation and performance-critical calculations
-- Math and physics formulas for energy, orbital motion, and relativistic-style visual effects
-- Threading for asynchronous audio playback while the visual simulation runs
+### 1. Native 3D Simulation Engine (`PhysicsSim3D` / `PixelFactory`)
+- **Native Performance**: Built with C++17, GLFW 3.4, and OpenGL (compatible across Intel, AMD, and NVIDIA GPUs).
+- **Zero-Dependency Portable Run**: Standalone executable with bundled MinGW runtime DLLs — no setup or internet required.
+- **Full 3D Orbit Camera**: Mouse drag and scroll zoom to inspect physical systems from any angle.
+- **Dynamic Parameter Sliders**: Change variables in real time while simulations continuously run without pausing.
 
-## How This Project Was Built
+### 2. Custom Equation Engine
+- Type any physics formula into the prompt box (e.g., $F = m \cdot a$, $T = 2\pi\sqrt{l/g}$, $E = \frac{1}{2}mv^2$).
+- Auto-detects variables and generates corresponding UI sliders with sensible bounds.
+- Supports trigonometric, exponential, logarithmic, and power functions ($+, -, *, /, \wedge, \sqrt{}, \sin, \cos, \tan, \exp, \log, \text{abs}, \pi$).
 
-1. **Identify the physics goals**
-   - a double pendulum that exhibits chaotic motion,
-   - a black hole with accretion disk and photon ring effects,
-   - a visual interface that feels polished and cinematic.
+### 3. Comprehensive Syllabus Coverage (25 Equations)
+- **Engineering Physics (20BSPH101)**:
+  - Atomic Packing Factor (FCC & BCC Structures)
+  - Interplanar Spacing (Miller Indices)
+  - Einstein A/B Coefficients & $\text{CO}_2$ Laser Gain
+  - Numerical Aperture, Acceptance Angle & Snell's Law
+  - Young's Modulus (Cantilever Method) & Torsional Pendulum
+  - Compton Shift, de-Broglie Wavelength, Particle in 1D Box & Planck's Law
+  - Fourier Heat Conduction
+- **School STEM (Classes 11 & 12)**:
+  - Newton's Second Law & Kinematics
+  - Projectile Range & Simple Harmonic Motion (Spring & Pendulum)
+  - Ohm's Law, Coulomb's Law, Magnetic Force on Wire & Wave Speed
 
-2. **Model the system mathematically**
-   - implement the pendulum equations of motion using Runge-Kutta 4 integration,
-   - compute energy and state evolution for accurate simulation,
-   - build a 3D projection and lensing approximation for the black hole scene.
+### 4. Interactive Web Platform (`pixelfactory-app`)
+- Modern Vite + React interface for browser-based exploration and learning modules.
 
-3. **Build the renderer**
-   - use Pygame to manage window, drawing, and event loops,
-   - render motion trails, particle systems, and UI overlays,
-   - add color and lighting choices that enhance the scientific storytelling.
+---
 
-4. **Add sensory feedback**
-   - integrate procedural audio based on pendulum angular velocity,
-   - use color gradients and particle glow to make dynamics readable.
+## 📁 Repository Structure
 
-5. **Iterate and polish**
-   - improve visual clarity with consistent palettes,
-   - add user-facing details like camera control, simulation speed, and energy tracking,
-   - keep the code structured so the physics logic remains easy to extend.
+```
+├── sans/
+│   ├── IEEEFutureExplorers/       # Main hackathon submission & standalone binaries
+│   │   ├── PixelFactory.exe       # Primary native application
+│   │   ├── file.cpp               # C++17 OpenGL simulation source code
+│   │   ├── compile.bat            # Build script
+│   │   └── libs/                  # GLFW headers and library dependencies
+│   ├── pixelfactory-app/          # React + Vite web application
+│   ├── PhysicsSim3D.exe           # Standalone physics simulator binary
+│   └── *.pdf, *.png               # Documentation, design diagrams, and presentation assets
+├── projec/                        # Visualizations, TouchDesigner & Rossler simulations
+├── phy w/                         # Python pendulum simulation scripts
+├── .gitignore                     # Git ignore rules
+└── README.md                      # Project documentation
+```
 
-## Impact
+---
 
-This repository makes physics concepts more accessible and enjoyable by:
-- helping students and hobbyists see how equations translate into motion,
-- providing an interactive, visual way to explore chaos and gravity,
-- encouraging experimentation with parameters and initial conditions,
-- turning a traditional learning experience into a creative simulation project.
+## 🎮 How to Run
 
-## How to Use
+### Standalone Executable (Windows x64)
+1. Navigate to `sans/IEEEFutureExplorers/` (or `sans/`).
+2. Ensure the required DLL files (`glfw3.dll`, `libstdc++-6.dll`, `libgcc_s_seh-1.dll`, `libwinpthread-1.dll`) remain in the same folder as `PixelFactory.exe`.
+3. Double-click `PixelFactory.exe`.
 
-1. Install Python 3.10+.
-2. Install dependencies:
-   ```bash
-   pip install pygame numpy
-   ```
-3. Run one of the simulation files:
-   ```bash
-   python pendulum.py
-   python blackhole.py
-   ```
+### Web Application (`pixelfactory-app`)
+```bash
+cd sans/pixelfactory-app
+npm install
+npm run dev
+```
 
-## Notes
+---
 
-This README introduces the project purpose, the physics it explores, and why this repo is designed as a visualization-first learning toolkit. If you want, I can also add a dedicated `requirements.txt` and a starter script for launching the main simulations.
+## 👥 Team & Acknowledgements
+
+- **Team Members**:
+  - Harish Sanjay S
+  - Sumitmadhavan S
+  - Thuthikathipathi M
+  - Jai Ganesh JC
+- **Supervisor**: Ms. Aiswarya Priyadharshini S
+- **Institution**: Sri Sairam Institute of Technology

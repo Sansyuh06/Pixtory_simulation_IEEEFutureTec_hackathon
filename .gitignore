@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Build artifacts & package outputs exceeding GitHub file size limits
+release/
+**/release/
+*.asar
+
+# Visual Studio / IDE temporary files
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx

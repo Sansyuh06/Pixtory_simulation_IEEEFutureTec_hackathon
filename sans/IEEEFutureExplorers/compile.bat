@@ -1,0 +1,1 @@
+"C:\Users\Akash Santhnu Sundar\scoop\apps\gcc\current\bin\g++.exe" -std=c++17 -O2 -mwindows -I libs\include file.cpp -o PixelFactory.exe -lglfw3dll -lopengl32 -lglu32 -lgdi32 -luser32 -lkernel32 -lwinhttp  
